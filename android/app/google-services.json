@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "120307571593",
+    "project_id": "reserved4you-6bcae",
+    "storage_bucket": "reserved4you-6bcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120307571593:android:8f317063786e1d639ddf58",
+        "android_client_info": {
+          "package_name": "com.gmbh.reserved4you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120307571593-148jh7nlns8eh55t54vin6og8efj34kj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmbh.reserved4you",
+            "certificate_hash": "0d82dd32158c00b8d41a7cb2f4a6dc6c65c7923f"
+          }
+        },
+        {
+          "client_id": "120307571593-bnb9q2heh08jfpa0oftaicoagl909g1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmbh.reserved4you",
+            "certificate_hash": "154596451e12af0314a7a08933237a49715332d2"
+          }
+        },
+        {
+          "client_id": "120307571593-cp1vghorma7eja58iuien3nv91isak25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmbh.reserved4you",
+            "certificate_hash": "ed8aa537efcde0f9ec46815ff0a9b520bb0a660c"
+          }
+        },
+        {
+          "client_id": "120307571593-o6kk7radkoibsfm202dm08nofa09u4v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9C_FRdOalKnbawzapG7xPn6Npe-i9T9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120307571593-o6kk7radkoibsfm202dm08nofa09u4v0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "120307571593-d9n04bgpkmg6sifuj2nvk9hsg99jh3l5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gmbh.reserved4you",
+                "app_store_id": "1550438723"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

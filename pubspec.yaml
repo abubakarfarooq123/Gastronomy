@@ -1,0 +1,153 @@
+name: reserved4u
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter_localizations:
+    sdk: flutter
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  get: ^4.1.4
+  http: ^0.13.3
+  lottie: ^1.0.1
+  smooth_page_indicator: ^1.0.0+2
+  shared_preferences: ^2.0.5
+  syncfusion_localizations: ^20.2.38
+  flutter_svg: ^1.1.1+1
+  fluttertoast: ^8.0.7
+  connectivity: ^3.0.3
+  device_info: ^2.0.0
+  flutter_facebook_login: ^3.0.0
+  google_sign_in: ^5.2.1
+  firebase_auth: ^3.3.4
+  firebase_core: ^1.10.0
+  flutter_rating_bar: ^4.0.0
+  google_maps_flutter: ^2.0.4
+  google_places_picker: ^3.0.2
+  geocoder: ^0.2.1
+  pinput: ^1.2.2
+  geolocator: ^9.0.2
+  visibility_detector: ^0.3.3
+  intl_phone_field: ^3.1.0
+  twilio_flutter: ^0.0.9
+  url_launcher: ^6.0.6
+  flutter_html:
+  input_history_text_field: ^0.2.0
+  flutter_stripe: ^3.3.0
+  cached_network_image: ^3.0.0
+  shimmer: ^2.0.0
+  permission_handler: ^10.0.0
+  image_viewer:
+  image_picker: ^0.8.0+1
+  pull_to_refresh: ^2.0.0
+  sign_in_with_apple: ^4.1.0
+  the_apple_sign_in: ^1.1.1
+  syncfusion_flutter_calendar: ^20.2.38
+  readmore: ^2.1.0
+  flutter_staggered_grid_view: ^0.6.2
+  colorful_safe_area: ^0.3.0
+  maps_launcher: ^2.0.0
+  firebase_messaging: ^12.0.0
+  flutter_local_notifications: ^9.1.5
+  image_downloader: ^0.31.0
+  provider: ^6.0.0
+  modal_progress_hud_nsn: ^0.2.1
+  webview_flutter_plus: ^0.3.0+2
+  pay: ^1.0.6
+  network_to_file_image: ^4.0.1
+  path_provider: ^2.0.9
+#  flutter_pay: ^1.0.2
+  optimized_cached_image: ^3.0.0
+  awesome_dialog: ^2.2.1
+  dotted_line: ^3.1.0
+  flutter_statusbarcolor_ns: ^0.4.0
+  sliver_header_delegate: ^0.0.1
+  sliver_tools: ^0.2.7
+  intl: ^0.17.0
+  flutter_swiper_view: ^1.1.8
+  vibration: ^1.7.5
+  flutter_phone_direct_caller: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+
+    - assets/images/
+    - assets/images/Intro/
+    - assets/images/_onBording/
+    - assets/images/onboarding/
+    - assets/images/_Dashboard/
+    - assets/images/Login/
+    - assets/images/Category/
+    - assets/images/Favourite/
+    - assets/images/HomeView/
+    - assets/images/DetailScreen/
+    - assets/images/Confirmed/
+    - assets/images/bottomnavbar/
+    - assets/images/Profile/
+    - assets/images/Settings/
+    - assets/images/GiveFeedback/
+    - assets/images/checkout/
+    - assets/images/Booking/
+    - assets/
+
+
+
+  fonts:
+    - family: CAMPTONBLACK
+      fonts:
+        - asset: assets/fonts/CAMPTON-BLACK.TTF
+    - family: CAMPTONBOLD
+      fonts:
+        - asset: assets/fonts/CAMPTON-BOLD.TTF
+    - family: CAMPTONBOOK
+      fonts:
+        - asset: assets/fonts/CAMPTON-BOOK.OTF
+    - family: CAMPTONMEDIUM
+      fonts:
+        - asset: assets/fonts/CAMPTON-MEDIUM.TTF
+    - family: CAMPTONSEMIBOLD
+      fonts:
+        - asset: assets/fonts/CAMPTON-SEMIBOLD.TTF
+    - family: CAMPTONLIGHT
+      fonts:
+        - asset: assets/fonts/CAMPTON-LIGHT.TTF
+
+
